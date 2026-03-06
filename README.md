@@ -25,7 +25,7 @@
 
 1. **Clona il repository:**
    ```bash
-   git clone [https://github.com/tuo-username/dera-transcriber.git](https://github.com/tuo-username/dera-transcriber.git)
+   git clone https://github.com/Lawlietteberry/AI-Audio-Transcriber.git
    cd dera-transcriber
 
 
