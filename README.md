@@ -26,7 +26,7 @@
 1. **Clona il repository:**
    ```bash
    git clone https://github.com/Lawlietteberry/AI-Audio-Transcriber.git
-   cd dera-transcriber
+   cd AI-Audio-Transcriber
 
 
    Installa le dipendenze:
