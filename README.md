@@ -2,6 +2,7 @@
 
 **Dera** è un'applicazione desktop moderna e intuitiva per la trascrizione locale di file audio e video. Alimentata da **Faster-Whisper**, permette di trasformare parlato in testo con estrema precisione, rispettando la privacy (tutto avviene sul tuo PC) e offrendo strumenti avanzati come il ripristino della punteggiatura tramite AI.
 
+<img width="1911" height="1013" alt="image" src="https://github.com/user-attachments/assets/fdc9bb5b-ff6f-4a5a-a8bc-27b65939f007" />
 
 
 - **🚀 Engine Faster-Whisper:** Utilizza l'implementazione più veloce esistente del modello Whisper di OpenAI.
@@ -29,15 +30,18 @@
 
 
    Installa le dipendenze:
-   pip install -r requirements.txt
 
-   (Opzionale) Per supporto GPU NVIDIA:
-   pip install torch --index-url [https://download.pytorch.org/whl/cu118](https://download.pytorch.org/whl/cu118)
+Bash
+pip install -r requirements.txt
+(Opzionale) Per supporto GPU NVIDIA:
+
+Bash
+pip install torch --index-url [https://download.pytorch.org/whl/cu118](https://download.pytorch.org/whl/cu118)
 pip install faster-whisper[cuda]
-
 📖 Utilizzo
 Avvia l'applicazione con:
 
+Bash
 python main.py
 Seleziona un file (mp3, mp4, wav, mkv, ecc.).
 
