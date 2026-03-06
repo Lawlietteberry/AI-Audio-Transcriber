@@ -42,7 +42,7 @@ pip install faster-whisper[cuda]
 Avvia l'applicazione con:
 
 Bash
-python main.py
+python transcriber.py
 Seleziona un file (mp3, mp4, wav, mkv, ecc.).
 
 Configura le impostazioni (Lingua, Modello, Punteggiatura).
